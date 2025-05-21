@@ -1,36 +1,38 @@
-Article Management Dashboard
-A responsive Article Management Dashboard built with React and shadcn/ui components. It features a sidebar for navigation and a data table to manage articles with filtering and sorting options. Designed with clean layout, reusable components, and routing using React Router.
+# Article Management Dashboard
 
-Appendix
-UI Library Used: shadcn/ui
+A modern, responsive dashboard application built with React and shadcn/ui components.  
+This app features an intuitive sidebar navigation and a dynamic data table to efficiently manage articles with filtering and sorting capabilities.  
+Designed with scalability, reusable components, and smooth routing using **React Router**.
 
-Routing: Implemented using React Router
+---
 
-Deployment: Hosted on Vercel
+## ✨ Features
 
-Features
-Responsive dashboard UI built with shadcn/ui components
+- Responsive and elegant UI built with **shadcn/ui**  
+- Sidebar navigation for easy access to all sections  
+- Article management table with sorting, filtering, and pagination  
+- Modular and reusable React components for maintainability  
+- Client-side routing powered by **React Router**  
+- Loading skeletons to enhance user experience  
+- Organized and scalable project structure  
 
-Sidebar navigation for easy access to different sections
+---
 
-Article data table with sorting and filtering options
+## 🛠 Tech Stack
 
-Reusable and modular React components for maintainability
+- React  
+- TypeScript  
+- TailwindCSS  
+- shadcn/ui  
+- React Router  
 
-Routing handled via React Router for smooth navigation
+---
 
-Loading states with skeleton UI for better user experience
+## 🚀 Installation
 
-Clean and organized project structure for scalability
+To set up and run the project locally, follow these steps:
 
-Installation
-Install my-project with npm
-
-cd Article Management
-
+```bash
+cd Article-Management
 npm install
-
 npm run dev
-
-Tech Stack
-React, TypeScript, TailwindCSS, shadcn/ui
